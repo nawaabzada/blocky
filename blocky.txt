@@ -19,7 +19,7 @@
             "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.snow.tiger.family&referrer=utm_source%3Dblocky",
             "Interstitial": "https://raw.githubusercontent.com/nawaabzada/snowtiger/master/snowtigerr.jpg",
             "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
-            "Native": "https://raw.githubusercontent.com/nawaabzada/actiontrends/master/spider.jpg"
+            "Native": "https://raw.githubusercontent.com/nawaabzada/snowtiger/master/snowtigerr.jpg"
         },
 {
             "GameId": "4",
